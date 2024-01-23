@@ -41,7 +41,7 @@
     #program-id{
         display: flex;
         flex-direction: column;
-        width: 90%;
+        width: 100%;
         object-fit: cover;
         background-size: cover;
        
